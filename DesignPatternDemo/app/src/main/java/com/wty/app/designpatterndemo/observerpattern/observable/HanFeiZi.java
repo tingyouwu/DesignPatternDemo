@@ -1,4 +1,7 @@
-package com.wty.app.designpatterndemo.observerpattern;
+package com.wty.app.designpatterndemo.observerpattern.observable;
+
+import com.wty.app.designpatterndemo.observerpattern.IHanFeiZi;
+import com.wty.app.designpatterndemo.observerpattern.observer.IObserver;
 
 import java.util.ArrayList;
 import java.util.List;

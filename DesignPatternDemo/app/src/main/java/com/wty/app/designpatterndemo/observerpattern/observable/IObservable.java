@@ -1,4 +1,6 @@
-package com.wty.app.designpatterndemo.observerpattern;
+package com.wty.app.designpatterndemo.observerpattern.observable;
+
+import com.wty.app.designpatterndemo.observerpattern.observer.IObserver;
 
 /**
  * @Desc 被观察者接口

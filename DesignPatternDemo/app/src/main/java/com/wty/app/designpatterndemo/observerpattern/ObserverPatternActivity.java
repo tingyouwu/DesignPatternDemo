@@ -5,9 +5,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.wty.app.designpatterndemo.R;
-import com.wty.app.designpatterndemo.strategypattern.BackDoorStrategy;
-import com.wty.app.designpatterndemo.strategypattern.BlockEnemyStrategy;
-import com.wty.app.designpatterndemo.strategypattern.GiveGreenLigntStrategy;
+import com.wty.app.designpatterndemo.observerpattern.observable.HanFeiZi;
+import com.wty.app.designpatterndemo.observerpattern.observer.IObserver;
+import com.wty.app.designpatterndemo.observerpattern.observer.LiSi;
+import com.wty.app.designpatterndemo.observerpattern.observer.WangSi;
 
 public class ObserverPatternActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.wty.app.designpatterndemo.observerpattern;
+package com.wty.app.designpatterndemo.observerpattern.observer;
 
 /**
  * @Desc 观察者接口
